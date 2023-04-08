@@ -640,6 +640,10 @@ a:hover {
   margin-bottom: 16px;
 }
 
+.answers li:hover {
+  background-color: var(--light-yellow);
+}
+
 .answers details summary {
   list-style: none;
   margin-bottom: 20px;
